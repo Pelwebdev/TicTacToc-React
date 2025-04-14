@@ -45,3 +45,13 @@
     color: #26ffcb;
     background-color: #1f3540;
 }
+@media only screen and (max-width: 800px) {
+    .title {
+        font-size: 30px;
+        padding: 0 5px;
+        display: block;
+    }
+    .title span{
+        padding-left: 0px;
+    }
+}
